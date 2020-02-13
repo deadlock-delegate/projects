@@ -9,11 +9,11 @@ deadlock's projects and ideas
 - [ ] block time
 
 
-#### New service #1
+### New service #1
 
 TBA
 
 
-#### New service #2
+### New service #2
 
 TBA
