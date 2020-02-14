@@ -14,8 +14,3 @@ deadlock's projects and ideas
 Inspired by Lightning's https://paywall.link, payfee.link will showcase Ark's speed and ease of use. Payfee will allow people to accept payments with a single link!
 
 More technical details to be determened later.
-
-
-### New service #2
-
-TBA
