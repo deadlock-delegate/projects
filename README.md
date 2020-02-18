@@ -7,6 +7,8 @@ deadlock's projects and ideas
 - [ ] # of transactions
 - [ ] disk size
 - [ ] block time
+- [ ] memory
+- [ ] cpu
 
 
 ### payfee.link
