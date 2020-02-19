@@ -9,6 +9,7 @@ deadlock's projects and ideas
 - [ ] block time
 - [ ] memory
 - [ ] cpu
+- [ ] if peer used as a starting point to scan the network is down, use different peer to avoid arkstats going down
 
 
 ### payfee.link
