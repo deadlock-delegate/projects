@@ -4,6 +4,7 @@ deadlock's projects and ideas
 
 ### Arkstats
 
+- [ ] use `metricsgraphics.js` for charts
 - [ ] # of transactions
 - [ ] disk size
 - [ ] block time
