@@ -10,6 +10,7 @@ deadlock's projects and ideas
 - [ ] block time
 - [ ] memory
 - [ ] cpu
+- [ ] explore an alternative mem stats lib: https://stackoverflow.com/questions/20018588/how-to-monitor-the-memory-usage-of-node-js
 - [ ] if peer used as a starting point to scan the network is down, use different peer to avoid arkstats going down
 
 
