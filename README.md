@@ -4,13 +4,13 @@ deadlock's projects and ideas
 
 ### Arkstats
 
-- [ ] use `metricsgraphics.js` for charts
+- [x] use `metricsgraphics.js` for charts
 - [ ] # of transactions
 - [ ] disk size
 - [ ] block time
-- [ ] memory
-- [ ] cpu
-- [ ] explore an alternative mem stats lib: https://stackoverflow.com/questions/20018588/how-to-monitor-the-memory-usage-of-node-js
+- [x] memory
+- [x] cpu
+- [x] explore an alternative mem stats lib: https://stackoverflow.com/questions/20018588/how-to-monitor-the-memory-usage-of-node-js
 - [ ] if peer used as a starting point to scan the network is down, use different peer to avoid arkstats going down
 
 
