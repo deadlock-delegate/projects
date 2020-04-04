@@ -21,5 +21,10 @@ Inspired by Lightning network's https://paywall.link, payfee.link will showcase 
 
 More technical details to be determened later.
 
+- [ ] API
+- [ ] Website
+
 
 ### Python runner (Ark core plugin)
+
+Plugin that will allow passing arguments to python code and execute it.
