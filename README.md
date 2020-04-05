@@ -6,7 +6,7 @@ deadlock's projects and ideas
 
 - [ ] if peer used as a starting point to scan the network is down, use different peer to avoid arkstats going down
 - [ ] # of transactions
-- [ ] database size
+- [x] database size
 - [ ] block time
 - [ ] zoom in/out on graphs
 - [x] use `metricsgraphics.js` for charts
